@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="false" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="gui.ItemLogPane" project="2110215_Lab5_2018_2_6131315621_Thanathai" 
+    file="/2110215_Lab5_2018_2_6131315621_Thanathai/src/gui/ItemLogPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="196" x="92" y="67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="gui.ItemButton" project="2110215_Lab5_2018_2_6131315621_Thanathai" 
+    file="/2110215_Lab5_2018_2_6131315621_Thanathai/src/gui/ItemButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="112" x="328" y="67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="gui.CataloguePane" project="2110215_Lab5_2018_2_6131315621_Thanathai" 
+    file="/2110215_Lab5_2018_2_6131315621_Thanathai/src/gui/CataloguePane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="195" x="829" y="67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="gui.InputField" project="2110215_Lab5_2018_2_6131315621_Thanathai" 
+    file="/2110215_Lab5_2018_2_6131315621_Thanathai/src/gui/InputField.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="138" x="1064" y="67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="gui.BarChartPane" project="2110215_Lab5_2018_2_6131315621_Thanathai" 
+    file="/2110215_Lab5_2018_2_6131315621_Thanathai/src/gui/BarChartPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="300" x="1242" y="67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="gui.ControlPane" project="2110215_Lab5_2018_2_6131315621_Thanathai" 
+    file="/2110215_Lab5_2018_2_6131315621_Thanathai/src/gui/ControlPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="179" x="1582" y="67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="gui.EventManager.AddButtonEventHandler" 
+    project="2110215_Lab5_2018_2_6131315621_Thanathai" 
+    file="/2110215_Lab5_2018_2_6131315621_Thanathai/src/gui/EventManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="481" y="262"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="gui.EventManager" project="2110215_Lab5_2018_2_6131315621_Thanathai" 
+    file="/2110215_Lab5_2018_2_6131315621_Thanathai/src/gui/EventManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="309" x="481" y="69"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="9">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
